@@ -1,2 +1,3 @@
-Hello, GitHub!
-Will be pulled from this remote repo
+Hello, Git
+
+testing git conflict 1
